@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://pasang-draw-togel.github.io/draw-1/sitemap.xml
